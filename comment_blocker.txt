@@ -1,6 +1,6 @@
 ! Title: Comment Blocker
 ! Expires: 2 days
-! Description: Block comment sections across the internet
+! Description: Removes comment sections across the internet. Does not affect social media.
 
 ! Every site
 ||disqus.com/embed/comments/

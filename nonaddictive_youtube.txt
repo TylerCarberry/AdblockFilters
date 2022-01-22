@@ -1,6 +1,6 @@
 ! Title: Non-addictive YouTube
 ! Expires: 2 days
-! Description: Remove addictive elements from YouTube.com including comments and suggested videos
+! Description: Removes addictive elements from YouTube.com including comments and suggested videos
 
 ! Suggestions under video
 www.youtube.com###secondary

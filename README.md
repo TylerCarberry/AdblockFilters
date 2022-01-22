@@ -7,7 +7,7 @@ Custom adblock filters to make the internet easier to use
 
 ```
 https://raw.githubusercontent.com/TylerCarberry/AdblockFilters/master/comment_blocker.txt
-https://raw.githubusercontent.com/TylerCarberry/AdblockFilters/master/youtube.txt
+https://raw.githubusercontent.com/TylerCarberry/AdblockFilters/master/nonaddictive_youtube.txt
 ```
 
 ## Comment Blocker
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/TylerCarberry/AdblockFilters/master/youtube.tx
 
 
 
-## <img width="30" alt="YouTube logo" src="https://user-images.githubusercontent.com/6628497/150619764-e624d133-0fc5-4cb3-b925-31fe1f1524fa.png"> Unaddictive YouTube
+## <img width="30" alt="YouTube logo" src="https://user-images.githubusercontent.com/6628497/150619764-e624d133-0fc5-4cb3-b925-31fe1f1524fa.png"> Non-addictive YouTube
 
 Removes addictive elements from the site
 - Video suggestions
