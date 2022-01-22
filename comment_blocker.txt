@@ -1,0 +1,76 @@
+! Title: Comment Blocker
+! Expires: 2 days
+! Description: Block comment sections across the internet
+
+! Every site
+||disqus.com/embed/comments/
+###disqus_container
+###disqus_thread
+||www.facebook.com/plugins/comments.php
+
+
+! 9to5Google
+9to5google.com##.comments
+9to5google.com###disqus_thread
+
+! ABC News
+abcnews.go.com##.CommentButton
+
+! Ars Technica
+arstechnica.com###promoted-comments
+arstechnica.com###social-footer
+arstechnica.com##.icon-comment-bubble-down.comment-count
+arstechnica.com##.comments-hotness
+
+! Fox News
+foxnews.com###commenting
+
+! G/O Media
+kotaku.com##.js_comments-iframe
+kotaku.com##[href$="#replies"]:nth-ancestor(1)
+kotaku.com##[id="replies"]
+gizmodo.com##.js_comments-iframe
+gizmodo.com##[href$="#replies"]:nth-ancestor(1)
+gizmodo.com##[id="replies"]
+avclub.com##.js_comments-iframe
+avclub.com##[href$="#replies"]:nth-ancestor(1)
+avclub.com##[id="replies"]
+jalopnik.com##.js_comments-iframe
+jalopnik.com##[href$="#replies"]:nth-ancestor(1)
+jalopnik.com##[id="replies"]
+jezebel.com##.js_comments-iframe
+jezebel.com##[href$="#replies"]:nth-ancestor(1)
+jezebel.com##[id="replies"]
+lifehacker.com##.js_comments-iframe
+lifehacker.com##[href$="#replies"]:nth-ancestor(1)
+lifehacker.com##[id="replies"]
+theroot.com##.js_comments-iframe
+theroot.com##[href$="#replies"]:nth-ancestor(1)
+theroot.com##[id="replies"]
+theinventory.com##.js_comments-iframe
+theinventory.com##[href$="#replies"]:nth-ancestor(1)
+theinventory.com##[id="replies"]
+
+! Krebs on Security
+krebsosecurity.com##.comments-area
+krebsonsecurity.com##.adt-comment
+
+! MacRumors
+macrumors.com###comments
+
+! Tech Crunch
+techcrunch.com##.article__action-links__comments
+
+! The Verge
+theverge.com##.c-comments
+theverge.com##.c-entry-stat--comment
+
+! Vulture
+vulture.com###comments
+
+! Washington Post
+washingtonpost.com###comments-wrapper
+washingtonpost.com##[data-qa="comments-btn-div"]
+
+! YouTube
+youtube.com##.ytd-comments.style-scope
