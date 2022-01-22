@@ -58,6 +58,9 @@ krebsonsecurity.com##.adt-comment
 ! MacRumors
 macrumors.com###comments
 
+! Raspberry Pi
+raspberrypi.com###comments
+
 ! Tech Crunch
 techcrunch.com##.article__action-links__comments
 
