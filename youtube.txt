@@ -1,0 +1,51 @@
+! Title: Non-addictive YouTube
+! Expires: 2 days
+! Description: Remove addictive elements from YouTube.com including comments and suggested videos
+
+! Suggestions under video
+www.youtube.com###secondary
+
+! Comments section
+www.youtube.com##.ytd-comments.style-scope
+
+! Suggestions on endscreen
+www.youtube.com##.ytp-endscreen-content
+
+! Trending tab
+www.youtube.com##[href^="/feed/explore"]
+
+! Clips tab
+www.youtube.com##[href^="/feed/clips"]
+
+! Your movies tab
+www.youtube.com##[href^="/feed/storefront"]
+
+! Library tab
+www.youtube.com##[href^="/feed/library"]
+
+! Gaming tab
+www.youtube.com##[href^="/gaming"]
+
+! Premium tab
+www.youtube.com##[href^="/premium"]
+
+! Fashion and beauty tab
+www.youtube.com##[href^="/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ"]
+
+! Sports tab
+www.youtube.com##[href^="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"]
+
+! Suggestion categories on homepage
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+
+! Voice search button
+www.youtube.com###voice-search-button
+
+! Sponsor/Join channel button
+www.youtube.com###sponsor-button
+
+! End cards
+www.youtube.com##.ytp-ce-element
+
+! Thumbnails
+www.youtube.com##ytd-thumbnail
