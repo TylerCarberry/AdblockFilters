@@ -8,6 +8,9 @@
 ###disqus_thread
 ||www.facebook.com/plugins/comments.php
 
+! 9to5Mac
+9to5mac.com##.comments
+9to5mac.com###disqus_thread
 
 ! 9to5Google
 9to5google.com##.comments
