@@ -14,6 +14,9 @@ www.youtube.com##.ytp-endscreen-content
 ! Trending tab
 www.youtube.com##[href^="/feed/explore"]
 
+! Shorts tab
+www.youtube.com##[title="Shorts"]
+
 ! Clips tab
 www.youtube.com##[href^="/feed/clips"]
 
