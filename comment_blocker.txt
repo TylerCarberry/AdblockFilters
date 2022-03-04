@@ -6,6 +6,8 @@
 ||disqus.com/embed/comments/
 ###disqus_container
 ###disqus_thread
+###discourse-embed-frame
+###discourse-comments
 ||www.facebook.com/plugins/comments.php
 
 ! 9to5Mac
