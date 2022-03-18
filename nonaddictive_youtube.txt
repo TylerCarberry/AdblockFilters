@@ -17,6 +17,9 @@ www.youtube.com##[href^="/feed/explore"]
 ! Shorts tab
 www.youtube.com##[title="Shorts"]
 
+! Shorts on mobile
+youtube.com##[class="pivot-bar-item-tab pivot-shorts"]:nth-ancestor(1)
+
 ! Clips tab
 www.youtube.com##[href^="/feed/clips"]
 
