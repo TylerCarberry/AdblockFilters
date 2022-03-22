@@ -31,6 +31,7 @@ arstechnica.com##.comments-hotness
 foxnews.com###commenting
 
 ! G/O Media
+||api.kinja.com/embed/comments
 kotaku.com##.js_comments-iframe
 kotaku.com##[href$="#replies"]:nth-ancestor(1)
 kotaku.com##[id="replies"]
