@@ -10,13 +10,13 @@
 ###discourse-comments
 ||www.facebook.com/plugins/comments.php
 
-! 9to5Mac
-9to5mac.com##.comments
-9to5mac.com###disqus_thread
-
 ! 9to5Google
 9to5google.com##.comments
 9to5google.com###disqus_thread
+
+! 9to5Mac
+9to5mac.com##.comments
+9to5mac.com###disqus_thread
 
 ! ABC News
 abcnews.go.com##.CommentButton
@@ -63,6 +63,10 @@ krebsonsecurity.com##.adt-comment
 
 ! MacRumors
 macrumors.com###comments
+
+! Patch
+patch.com##.fa-comments:nth-ancestor(1)
+patch.com##[aria-label$="reply"]
 
 ! Raspberry Pi
 raspberrypi.com###comments
