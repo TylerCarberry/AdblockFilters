@@ -27,6 +27,9 @@ arstechnica.com###social-footer
 arstechnica.com##.icon-comment-bubble-down.comment-count
 arstechnica.com##.comments-hotness
 
+! Engadget
+engadget.com###comments
+
 ! Fox News
 foxnews.com###commenting
 
