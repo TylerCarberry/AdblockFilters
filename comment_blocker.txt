@@ -71,6 +71,9 @@ macrumors.com###comments
 patch.com##.fa-comments:nth-ancestor(1)
 patch.com##[aria-label$="reply"]
 
+! PC Mag
+pcmag.com###comments
+
 ! Raspberry Pi
 raspberrypi.com###comments
 
