@@ -61,7 +61,7 @@ theinventory.com##[href$="#replies"]:nth-ancestor(1)
 theinventory.com##[id="replies"]
 
 ! Krebs on Security
-krebsosecurity.com##.comments-area
+krebsonsecurity.com##.comments-area
 krebsonsecurity.com##.adt-comment
 
 ! MacRumors
