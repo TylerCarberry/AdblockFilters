@@ -3,55 +3,55 @@
 ! Description: Removes addictive elements from YouTube.com including comments and suggested videos
 
 ! Suggestions under video
-www.youtube.com###secondary
+youtube.com###secondary
 
 ! Comments section
-www.youtube.com##.ytd-comments.style-scope
+youtube.com##.ytd-comments.style-scope
 
 ! Suggestions on endscreen
-www.youtube.com##.ytp-endscreen-content
+youtube.com##.ytp-endscreen-content
 
 ! Trending tab
-www.youtube.com##[href^="/feed/explore"]
+youtube.com##[href^="/feed/explore"]
 
 ! Shorts tab
-www.youtube.com##[title="Shorts"]
+youtube.com##[title="Shorts"]
 
 ! Shorts on mobile
 youtube.com##[class="pivot-bar-item-tab pivot-shorts"]:nth-ancestor(1)
 
 ! Clips tab
-www.youtube.com##[href^="/feed/clips"]
+youtube.com##[href^="/feed/clips"]
 
 ! Your movies tab
-www.youtube.com##[href^="/feed/storefront"]
+youtube.com##[href^="/feed/storefront"]
 
 ! Library tab
-www.youtube.com##[href^="/feed/library"]
+youtube.com##[href^="/feed/library"]
 
 ! Gaming tab
-www.youtube.com##[href^="/gaming"]
+youtube.com##[href^="/gaming"]
 
 ! Premium tab
-www.youtube.com##[href^="/premium"]
+youtube.com##[href^="/premium"]
 
 ! Fashion and beauty tab
-www.youtube.com##[href^="/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ"]
+youtube.com##[href^="/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ"]
 
 ! Sports tab
-www.youtube.com##[href^="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"]
+youtube.com##[href^="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"]
 
 ! Suggestion categories on homepage
-www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+youtube.com###header > .ytd-rich-grid-renderer.style-scope
 
 ! Voice search button
-www.youtube.com###voice-search-button
+youtube.com###voice-search-button
 
 ! Sponsor/Join channel button
-www.youtube.com###sponsor-button
+youtube.com###sponsor-button
 
 ! End cards
-www.youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-element
 
 ! Thumbnails
-www.youtube.com##ytd-thumbnail
+youtube.com##ytd-thumbnail
