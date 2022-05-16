@@ -8,6 +8,9 @@ youtube.com###secondary
 ! Comments section
 youtube.com##.ytd-comments.style-scope
 
+! Comments on mobile
+youtube.com##ytm-comments-entry-point-header-renderer
+
 ! Suggestions on endscreen
 youtube.com##.ytp-endscreen-content
 
@@ -55,3 +58,6 @@ youtube.com##.ytp-ce-element
 
 ! Thumbnails
 youtube.com##ytd-thumbnail
+
+! Up Next on mobile
+youtube.com##[section-identifier="related-items"]
