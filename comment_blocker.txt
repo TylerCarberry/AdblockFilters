@@ -13,10 +13,12 @@
 ! 9to5Google
 9to5google.com##.comments
 9to5google.com###disqus_thread
+9to5google.com##.post-body.comments-area
 
 ! 9to5Mac
 9to5mac.com##.comments
 9to5mac.com###disqus_thread
+9to5mac.com##.post-body.comments-area
 
 ! ABC News
 abcnews.go.com##.CommentButton
