@@ -85,6 +85,7 @@ raspberrypi.com###comments
 ! Substack
 substack.com##.comments-section
 substack.com##.use-separators.post-footer
+##.post-ufi-comment-button
 
 ! Tech Crunch
 techcrunch.com##.article__action-links__comments
