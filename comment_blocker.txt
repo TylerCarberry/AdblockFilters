@@ -29,6 +29,9 @@ arstechnica.com###social-footer
 arstechnica.com##.icon-comment-bubble-down.comment-count
 arstechnica.com##.comments-hotness
 
+! Blogger
+##.blogger-comments:nth-ancestor(1)
+
 ! Engadget
 engadget.com###comments
 
