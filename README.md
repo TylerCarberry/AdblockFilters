@@ -2,15 +2,15 @@
 Custom adblock filters to make the internet easier to use
 
 ## Installation
-- Download a compatible adblock extension. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) recommended
-- Add the urls to your Adblock filter list
+- Download [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or another adblock extension
+- Add the urls to your filter list
 
 ```
 https://raw.githubusercontent.com/TylerCarberry/AdblockFilters/master/comment_blocker.txt
 https://raw.githubusercontent.com/TylerCarberry/AdblockFilters/master/nonaddictive_youtube.txt
 ```
 
-## Comment Blocker
+## <img width="30" alt="Comments Icon" src="https://user-images.githubusercontent.com/6628497/177025201-083772d7-bdc5-46e2-b169-5ef3f5bff131.png"> Comment Blocker
 - Removes comment sections across the internet. Does not affect social media.
 - [List of supported sites](https://github.com/TylerCarberry/AdblockFilters/blob/master/comment_blocker.txt)
 
