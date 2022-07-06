@@ -32,6 +32,11 @@ arstechnica.com##.comments-hotness
 ! Blogger
 ##.blogger-comments:nth-ancestor(1)
 
+! Deadline
+deadline.com###comments-title
+deadline.com###comments-loaded
+deadline.com##[href$="#comments"]:nth-ancestor(1)
+
 ! Engadget
 engadget.com###comments
 
