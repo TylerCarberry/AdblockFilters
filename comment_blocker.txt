@@ -98,6 +98,8 @@ techcrunch.com##.article__action-links__comments
 ! The Verge
 theverge.com##.c-comments
 theverge.com##.c-entry-stat--comment
+theverge.com##[data-ui="comment"]
+
 
 ! Vulture
 vulture.com###comments
