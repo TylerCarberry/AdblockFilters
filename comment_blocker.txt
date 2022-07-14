@@ -31,6 +31,7 @@ arstechnica.com##.comments-hotness
 
 ! Blogger
 ##.blogger-comments:nth-ancestor(1)
+##.comments
 
 ! Deadline
 deadline.com###comments-title
@@ -70,6 +71,9 @@ theinventory.com##.js_comments-iframe
 theinventory.com##[href$="#replies"]:nth-ancestor(1)
 theinventory.com##[id="replies"]
 
+! gov.uk
+gov.uk##.leave-a-comment
+
 ! Krebs on Security
 krebsonsecurity.com##.comments-area
 krebsonsecurity.com##.adt-comment
@@ -100,13 +104,15 @@ theverge.com##.c-comments
 theverge.com##.c-entry-stat--comment
 theverge.com##[data-ui="comment"]
 
-
 ! Vulture
 vulture.com###comments
 
 ! Washington Post
 washingtonpost.com###comments-wrapper
 washingtonpost.com##[data-qa="comments-btn-div"]
+
+! Wordpress
+##.comments-area
 
 ! YouTube
 youtube.com##.ytd-comments.style-scope
