@@ -33,6 +33,9 @@ arstechnica.com##.comments-hotness
 ##.blogger-comments:nth-ancestor(1)
 ##.comments
 
+! Commento
+||commento.io/api
+
 ! Deadline
 deadline.com###comments-title
 deadline.com###comments-loaded
@@ -96,6 +99,9 @@ substack.com##.comments-section
 substack.com##.use-separators.post-footer
 ##.post-ufi-comment-button
 
+! Talkyard
+||ty-cdn.net
+
 ! Tech Crunch
 techcrunch.com##.article__action-links__comments
 
@@ -112,6 +118,7 @@ washingtonpost.com###comments-wrapper
 washingtonpost.com##[data-qa="comments-btn-div"]
 
 ! Wordpress
+##.comment-respond
 ##.comments-area
 
 ! YouTube
