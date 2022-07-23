@@ -84,6 +84,10 @@ krebsonsecurity.com##.adt-comment
 ! MacRumors
 macrumors.com###comments
 
+! OpenWeb
+! https://openweb.com
+||spot.im
+
 ! Patch
 patch.com##.fa-comments:nth-ancestor(1)
 patch.com##[aria-label$="reply"]
