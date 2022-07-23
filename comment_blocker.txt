@@ -124,6 +124,7 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 ! Wordpress
 ##.comment-respond
 ##.comments-area
+###comments
 
 ! YouTube
 youtube.com##.ytd-comments.style-scope
