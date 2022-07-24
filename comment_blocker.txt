@@ -131,7 +131,7 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 ###comments
 
 ! Xenforo
-#.xenforo-comment-widget
+##.xenforo-comment-widget
 ##.xenforo-comments-see-all
 
 ! YouTube
