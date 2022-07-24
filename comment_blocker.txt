@@ -2,14 +2,6 @@
 ! Expires: 2 days
 ! Description: Removes comment sections across the internet. Does not affect social media.
 
-! Every site
-||disqus.com/embed/comments/
-###disqus_container
-###disqus_thread
-###discourse-embed-frame
-###discourse-comments
-||www.facebook.com/plugins/comments.php
-
 ! 9to5Google
 9to5google.com##.comments
 9to5google.com###disqus_thread
@@ -41,8 +33,20 @@ deadline.com###comments-title
 deadline.com###comments-loaded
 deadline.com##[href$="#comments"]:nth-ancestor(1)
 
+! Discourse
+###discourse-embed-frame
+###discourse-comments
+
+! Disqus
+||disqus.com/embed/comments/
+###disqus_container
+###disqus_thread
+
 ! Engadget
 engadget.com###comments
+
+! Facebook Comments (not facebook.com)
+||www.facebook.com/plugins/comments.php
 
 ! Fox News
 foxnews.com###commenting
@@ -125,6 +129,10 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 ##.comment-respond
 ##.comments-area
 ###comments
+
+! Xenforo
+#.xenforo-comment-widget
+##.xenforo-comments-see-all
 
 ! YouTube
 youtube.com##.ytd-comments.style-scope
