@@ -1,0 +1,29 @@
+
+! Title: Twitter blocker
+! Expires: 2 days
+! Description: Removes nearly all of twitter
+
+! Twitter
+! Suggested tweets
+twitter.com##h2>div>span:has-text(/^More Tweets$/):upward([style^="transform"])~div
+twitter.com##h2>div>span:has-text(/^More Tweets$/):upward([style^="transform"])
+twitter.com##h2>div>span:has-text(/^Related Tweets$/):upward([style^="transform"])~div
+twitter.com##h2>div>span:has-text(/^Related Tweets$/):upward([style^="transform"])
+
+! DM drawer
+twitter.com##[data-testid="DMDrawer"]
+
+! The entire left side of the scrren (notifications, explore, bookmarks)
+twitter.com##[data-testid="AppTabBar_Explore_Link"]:nth-ancestor(1)
+
+! The entire right side of the screen (trending, suggested accounts, search box)
+twitter.com##[data-testid="sidebarColumn"]
+
+! Tweet actions (reply, like, retweet)
+twitter.com##[data-testid="reply"]:nth-ancestor(3)
+
+! Reply box
+twitter.com##[class="DraftEditor-root"]:nth-ancestor(23)
+
+! New tweet button
+twitter.com##[data-testid="SideNav_NewTweet_Button"]
