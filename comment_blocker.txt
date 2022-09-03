@@ -103,8 +103,8 @@ pcmag.com###comments
 raspberrypi.com###comments
 
 ! Substack
-substack.com##.comments-section
-substack.com##.use-separators.post-footer
+##.comments-section
+##.use-separators.post-footer
 ##.post-ufi-comment-button
 
 ! Talkyard
