@@ -118,6 +118,12 @@ theverge.com##.c-comments
 theverge.com##.c-entry-stat--comment
 theverge.com##[data-ui="comment"]
 
+! Viafoura
+||livecomments.viafoura.co
+||api.viafoura.co
+||notifications.viafoura.co
+||cdn.viafoura.net
+
 ! Vulture
 vulture.com###comments
 
