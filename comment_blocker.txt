@@ -117,6 +117,8 @@ techcrunch.com##.article__action-links__comments
 theverge.com##.c-comments
 theverge.com##.c-entry-stat--comment
 theverge.com##[data-ui="comment"]
+theverge.com##.duet--article--comments-link
+theverge.com##.duet--article--comments-join-the-conversation
 
 ! Viafoura
 ||livecomments.viafoura.co
