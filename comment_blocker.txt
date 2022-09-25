@@ -88,6 +88,9 @@ krebsonsecurity.com##.adt-comment
 ! MacRumors
 macrumors.com###comments
 
+! Medium
+medium.com##[aria-label="responses"]:nth-ancestor(3)
+
 ! OpenWeb
 ! https://openweb.com
 ||spot.im
