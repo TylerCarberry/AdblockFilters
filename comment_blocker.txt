@@ -147,3 +147,4 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 
 ! YouTube
 youtube.com##.ytd-comments.style-scope
+youtube.com###comments-button
