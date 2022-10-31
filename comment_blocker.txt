@@ -24,6 +24,7 @@ arstechnica.com###promoted-comments
 arstechnica.com###social-footer
 arstechnica.com##.icon-comment-bubble-down.comment-count
 arstechnica.com##.comments-hotness
+arstechnica.com###comments-area
 
 ! Blogger
 ##.blogger-comments:nth-ancestor(1)
