@@ -15,6 +15,10 @@
 ! ABC News
 abcnews.go.com##.CommentButton
 
+! Apple Insider
+appleinsider.com##.article-comments
+appleinsider.com##[href*="/discussion/"]:nth-ancestor(1)
+
 ! Ars Technica
 arstechnica.com###promoted-comments
 arstechnica.com###social-footer
