@@ -30,6 +30,9 @@ arstechnica.com###comments-area
 ##.blogger-comments:nth-ancestor(1)
 ##.comments
 
+! Boston.com
+boston.com###comments
+
 ! CBC
 cbc.ca##.commentCount
 cbc.ca##.comments
