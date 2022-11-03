@@ -30,6 +30,10 @@ arstechnica.com###comments-area
 ##.blogger-comments:nth-ancestor(1)
 ##.comments
 
+! CBC
+cbc.ca##.commentCount
+cbc.ca##.comments
+
 ! Commento
 ||commento.io/api
 
