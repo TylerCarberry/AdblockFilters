@@ -117,6 +117,9 @@ pcmag.com###comments
 ! Raspberry Pi
 raspberrypi.com###comments
 
+! Stackoverflow (Exclude)
+stackoverflow.com#@#.comments
+
 ! Substack
 ##.comments-section
 ##.use-separators.post-footer
