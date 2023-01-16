@@ -114,6 +114,10 @@ patch.com##[aria-label$="reply"]
 ! PC Mag
 pcmag.com###comments
 
+! Phone Arena
+phonearena.com##.ic-comment-counter
+phonearena.com###comments
+
 ! Raspberry Pi
 raspberrypi.com###comments
 
