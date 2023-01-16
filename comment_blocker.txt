@@ -137,6 +137,9 @@ theverge.com##.c-entry-stat--comment
 theverge.com##[data-ui="comment"]
 theverge.com##.duet--article--comments-link
 theverge.com##.duet--article--comments-join-the-conversation
+theverge.com##.duet--article--comments-button
+theverge.com##.flex.duet--article--share-buttons
+theverge.com##[href="#comments"]
 
 ! Viafoura
 ||livecomments.viafoura.co
