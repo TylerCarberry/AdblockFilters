@@ -135,6 +135,9 @@ stackoverflow.com#@#.comments
 ! Tech Crunch
 techcrunch.com##.article__action-links__comments
 
+! The Atlantic
+||theathletic.com/graphql?operationName=ContentComments
+
 ! The Verge
 theverge.com##.c-comments
 theverge.com##.c-entry-stat--comment
