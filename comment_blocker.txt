@@ -54,6 +54,9 @@ deadline.com##[href$="#comments"]:nth-ancestor(1)
 ###disqus_container
 ###disqus_thread
 
+! Ecommerce Bytes
+ecommercebytes.com##table.CommentEntry_Table
+
 ! Engadget
 engadget.com###comments
 
