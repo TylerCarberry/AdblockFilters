@@ -40,6 +40,9 @@ cbc.ca##.comments
 ! Commento
 ||commento.io/api
 
+! Coral
+###coral_thread
+
 ! Deadline
 deadline.com###comments-title
 deadline.com###comments-loaded
