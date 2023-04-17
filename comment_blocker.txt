@@ -170,6 +170,7 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 
 ! Wix
 ||*.com/_api/comments-middleware-server/comments
+##.wc-comments-root
 
 ! Wordpress
 ##.comment-respond
