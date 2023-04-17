@@ -168,6 +168,9 @@ vulture.com###comments
 washingtonpost.com###comments-wrapper
 washingtonpost.com##[data-qa="comments-btn-div"]
 
+! Wix
+||*.com/_api/comments-middleware-server/comments
+
 ! Wordpress
 ##.comment-respond
 ##.comments-area
