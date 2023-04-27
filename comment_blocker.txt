@@ -33,6 +33,9 @@ arstechnica.com###comments-area
 ! Boston.com
 boston.com###comments
 
+! Boston Globe
+bostonglobe.com###bgmp-comments
+
 ! CBC
 cbc.ca##.commentCount
 cbc.ca##.comments
