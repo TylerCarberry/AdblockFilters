@@ -15,6 +15,9 @@
 ! ABC News
 abcnews.go.com##.CommentButton
 
+! Amp
+##.amp-comments-link
+
 ! Apple Insider
 appleinsider.com##.article-comments
 appleinsider.com##[href*="/discussion/"]:nth-ancestor(1)
