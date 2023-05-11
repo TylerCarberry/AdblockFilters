@@ -42,6 +42,9 @@ youtube.com##[href^="/premium"]
 ! Fashion and beauty tab
 youtube.com##[href^="/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ"]
 
+! Shopping tab
+youtube.com##[href^="/channel/UCkYQyvc_i9hXEo4xic9Hh2g"]
+
 ! Sports tab
 youtube.com##[href^="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"]
 
