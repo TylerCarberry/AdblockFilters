@@ -187,6 +187,15 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 ##.xenforo-comment-widget
 ##.xenforo-comments-see-all
 
+! xkcd
+xkcd.com###bottom
+xkcd.com##[href="//c.xkcd.com/random/comic/"]
+xkcd.com###topLeft
+xkcd.com###news
+xkcd.com##[href="/1/"]
+xkcd.com##ul.comicNav [href="/"]
+xkcd.com###bgLeft
+
 ! Y Combinator / Hacker News
 news.ycombinator.com##.morelink
 news.ycombinator.com##.yclinks
