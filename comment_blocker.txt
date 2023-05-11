@@ -187,6 +187,15 @@ washingtonpost.com##[data-qa="comments-btn-div"]
 ##.xenforo-comment-widget
 ##.xenforo-comments-see-all
 
+! Y Combinator / Hacker News
+news.ycombinator.com##.morelink
+news.ycombinator.com##.yclinks
+news.ycombinator.com##form
+news.ycombinator.com##.reply
+news.ycombinator.com##.votearrow
+news.ycombinator.com##.subtext
+news.ycombinator.com##.pagetop
+
 ! YouTube
 youtube.com##.ytd-comments.style-scope
 youtube.com###comments-button
