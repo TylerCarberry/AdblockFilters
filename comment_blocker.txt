@@ -115,6 +115,11 @@ macrumors.com###comments
 ! Medium
 medium.com##[aria-label="responses"]:nth-ancestor(3)
 
+! NYTimes
+nytimes.com###comments-speech-bubble-bigBottom
+nytimes.com###comments-speech-bubble-footer
+nytimes.com###comments-speech-bubble-header
+
 ! OpenWeb
 ! https://openweb.com
 ||spot.im
