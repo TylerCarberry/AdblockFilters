@@ -166,6 +166,9 @@ theverge.com##.flex.duet--article--share-buttons
 theverge.com##[href="#comments"]
 theverge.com###coral_thread
 
+! Variety
+variety.com##.comment-form-comment
+
 ! Viafoura
 ||livecomments.viafoura.co
 ||api.viafoura.co
