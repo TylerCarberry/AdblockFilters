@@ -58,13 +58,13 @@ youtube.com###voice-search-button
 youtube.com###sponsor-button
 
 ! Clip button
-youtube.com##[aria-label="Clip"]:nth-ancestor(2)
+! youtube.com##[aria-label="Clip"]:nth-ancestor(2)
 
 ! Donate button
-youtube.com##[aria-label="Thanks"]:nth-ancestor(2)
+! youtube.com##[aria-label="Thanks"]:nth-ancestor(2)
 
 ! Share button
-youtube.com##[aria-label="Share"]:nth-ancestor(2)
+! youtube.com##[aria-label="Share"]:nth-ancestor(2)
 
 ! Download video button
 youtube.com##ytd-download-button-renderer
