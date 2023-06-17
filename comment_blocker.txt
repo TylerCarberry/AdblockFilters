@@ -53,6 +53,7 @@ cbc.ca##.comments
 deadline.com###comments-title
 deadline.com###comments-loaded
 deadline.com##[href$="#comments"]:nth-ancestor(1)
+deadline.com##.amp-comments-link
 
 ! Discourse
 ###discourse-embed-frame
