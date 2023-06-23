@@ -102,6 +102,9 @@ theroot.com##[id="replies"]
 theinventory.com##.js_comments-iframe
 theinventory.com##[href$="#replies"]:nth-ancestor(1)
 theinventory.com##[id="replies"]
+thetakeout.com##.js_comments-iframe
+thetakeout.com##[href$="#replies"]:nth-ancestor(1)
+thetakeout.com##[id="replies"]
 
 ! gov.uk
 gov.uk##.leave-a-comment
