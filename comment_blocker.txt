@@ -223,3 +223,4 @@ news.ycombinator.com##.pagetop
 ! YouTube
 youtube.com##.ytd-comments.style-scope
 youtube.com###comments-button
+youtube.com###reply-button-end
