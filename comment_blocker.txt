@@ -20,6 +20,9 @@ abcnews.go.com##.CommentButton
 ! Amp
 ##.amp-comments-link
 
+! Android Police
+androidpolice.com##.w-newsletter-popup
+
 ! Apple Insider
 appleinsider.com##.article-comments
 appleinsider.com##[href*="/discussion/"]:nth-ancestor(1)
