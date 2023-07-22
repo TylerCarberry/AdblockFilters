@@ -78,5 +78,8 @@ youtube.com##ytd-thumbnail
 ! Up Next on mobile
 youtube.com##[section-identifier="related-items"]
 
-! Shorts Shelf
+! Shorts Shelf Mobile
 youtube.com##ytm-reel-shelf-renderer
+
+! Shorts Shelf Desktop
+youtube.com##[is-shorts=""]
