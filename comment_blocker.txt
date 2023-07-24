@@ -44,6 +44,11 @@ boston.com###comments
 ! Boston Globe
 bostonglobe.com###bgmp-comments
 
+! BuzzFeed
+buzzfeed.com##.embed-action-bar
+buzzfeed.com##.reactions_section__hadfx
+buzzfeed.com###comments
+
 ! CBC
 cbc.ca##.commentCount
 cbc.ca##.comments
