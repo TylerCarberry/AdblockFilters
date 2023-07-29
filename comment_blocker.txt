@@ -181,6 +181,13 @@ theverge.com##[href="#comments"]
 theverge.com###coral_thread
 theverge.com##.coral-count:nth-ancestor(2)
 
+! Toms Guide
+tomsguide.com##.xenforo-comment-widget
+www.tomsguide.com##.xenforo-comments-see-all
+tomsguide.com##.xenforo-nav-link
+tomsguide.com##.socialite-widget
+tomsguide.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+
 ! Variety
 variety.com##.comment-form-comment
 
