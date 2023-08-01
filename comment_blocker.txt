@@ -154,6 +154,10 @@ patch.com##[aria-label$="reply"]
 ! PC Mag
 pcmag.com###comments
 
+! People
+people.com##.social-share-block
+people.com##.bc-player-mobile-adhesive
+
 ! Phone Arena
 phonearena.com##.ic-comment-counter
 phonearena.com###comments
