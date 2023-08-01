@@ -33,6 +33,7 @@ arstechnica.com###social-footer
 arstechnica.com##.icon-comment-bubble-down.comment-count
 arstechnica.com##.comments-hotness
 arstechnica.com###comments-area
+arstechnica.com###comment-count
 
 ! Blogger
 ##.blogger-comments:nth-ancestor(1)
@@ -64,6 +65,8 @@ deadline.com###comments-title
 deadline.com###comments-loaded
 deadline.com##[href$="#comments"]:nth-ancestor(1)
 deadline.com##.amp-comments-link
+deadline.com##.amp-social-share-bar-container
+deadline.com##.widget-newsletter
 
 ! Discourse
 ###discourse-embed-frame
@@ -127,6 +130,17 @@ thetakeout.com##[id="replies"]
 
 ! gov.uk
 gov.uk##.leave-a-comment
+
+! Hollywood Reporter
+hollywoodreporter.com##.amp-social-share-bar-container
+
+! Houston Chronicle
+houstonchronicle.com##.articleHeader--shareTools
+houstonchronicle.com##.article--comments
+houstonchronicle.com##.articleFooter--social
+
+! Independent
+independent.co.uk##.show-comments
 
 ! Krebs on Security
 krebsonsecurity.com##.comments-area
@@ -256,3 +270,4 @@ news.ycombinator.com##.pagetop
 youtube.com##.ytd-comments.style-scope
 youtube.com###comments-button
 youtube.com###reply-button-end
+youtube.com##.icon-shorts_comment
