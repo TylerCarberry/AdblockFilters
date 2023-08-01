@@ -162,6 +162,10 @@ people.com##.bc-player-mobile-adhesive
 phonearena.com##.ic-comment-counter
 phonearena.com###comments
 
+! Politico
+politico.com##.social-tools
+politico.com##.sign-up-21
+
 ! Raspberry Pi
 raspberrypi.com###comments
 
