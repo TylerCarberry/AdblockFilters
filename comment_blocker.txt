@@ -81,10 +81,19 @@ ecommercebytes.com##table.CommentEntry_Table
 engadget.com###comments
 
 ! Facebook Comments (not facebook.com)
-||www.facebook.com/plugins/comments.php
+||facebook.com/plugins/comments.php
 
 ! Fox News
 foxnews.com###commenting
+
+! Financial Times
+ft.com##.article-comment-count
+ft.com##.share-nav__horizontal
+ft.com##.article__content-sign-up
+ft.com##.o-ads--label-left
+ft.com##.article-tools__comments
+ft.com##.comments-container
+ft.com##.n-feedback__container
 
 ! G/O Media
 ||api.kinja.com/embed/comments
@@ -183,7 +192,7 @@ theverge.com##.coral-count:nth-ancestor(2)
 
 ! Toms Guide
 tomsguide.com##.xenforo-comment-widget
-www.tomsguide.com##.xenforo-comments-see-all
+tomsguide.com##.xenforo-comments-see-all
 tomsguide.com##.xenforo-nav-link
 tomsguide.com##.socialite-widget
 tomsguide.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
