@@ -7,15 +7,18 @@
 9to5google.com###disqus_thread
 9to5google.com##.post-body.comments-area
 9to5google.com##.top-comment
+9to5google.com##.article__youtube-video
 
 ! 9to5Mac
 9to5mac.com##.comments
 9to5mac.com###disqus_thread
 9to5mac.com##.post-body.comments-area
 9to5mac.com##.top-comment
+9to5mac.com##.article__youtube-video
 
 ! ABC News
 abcnews.go.com##.CommentButton
+abcnews.go.com##.Amp__Share
 
 ! Amp
 ##.amp-comments-link
@@ -34,6 +37,7 @@ arstechnica.com##.icon-comment-bubble-down.comment-count
 arstechnica.com##.comments-hotness
 arstechnica.com###comments-area
 arstechnica.com###comment-count
+arstechnica.com##.mobile-meta-controls
 
 ! Blogger
 ##.blogger-comments:nth-ancestor(1)
@@ -82,6 +86,9 @@ ecommercebytes.com##table.CommentEntry_Table
 
 ! Engadget
 engadget.com###comments
+
+! ESPN
+espn.com##.AppPromo
 
 ! Facebook Comments (not facebook.com)
 ||facebook.com/plugins/comments.php
@@ -151,6 +158,9 @@ macrumors.com###comments
 
 ! Medium
 medium.com##[aria-label="responses"]:nth-ancestor(3)
+
+! MSNBC
+msnbc.com##.expanded-byline__social
 
 ! NYTimes
 nytimes.com###comments-speech-bubble-bigBottom
