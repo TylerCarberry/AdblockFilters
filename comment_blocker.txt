@@ -135,8 +135,15 @@ thetakeout.com##.js_comments-iframe
 thetakeout.com##[href$="#replies"]:nth-ancestor(1)
 thetakeout.com##[id="replies"]
 
+! Gothamist
+gothamist.com##.v-share-tools
+
 ! gov.uk
 gov.uk##.leave-a-comment
+
+! Grubstreet
+grubstreet.com##.coral-talk
+grubstreet.com###comments
 
 ! Hollywood Reporter
 hollywoodreporter.com##.amp-social-share-bar-container
@@ -156,11 +163,23 @@ krebsonsecurity.com##.adt-comment
 ! MacRumors
 macrumors.com###comments
 
+! Marketwatch
+marketwatch.com##.media-object-article-reader
+marketwatch.com##.article__social
+
 ! Medium
 medium.com##[aria-label="responses"]:nth-ancestor(3)
 
 ! MSNBC
 msnbc.com##.expanded-byline__social
+
+! Newsweek
+newsweek.com##.social-share
+newsweek.com##.v_embed.v_text
+newsweek.com##.trinityAudioPlaceholder
+newsweek.com##.newsletter-signup
+newsweek.com##.promo-link
+||trinitymedia.ai/player/trinity-player.php
 
 ! NYTimes
 nytimes.com###comments-speech-bubble-bigBottom
@@ -207,6 +226,12 @@ stackoverflow.com#@#.comments
 ! Tech Crunch
 techcrunch.com##.article__action-links__comments
 
+! Tech Dirt
+techdirt.com##.comments-wrapper
+techdirt.com##.widget_techdirt_social
+techdirt.com##.widget_techdirt_discord
+techdirt.com##.storytools
+
 ! The Atlantic
 ||theathletic.com/graphql?operationName=ContentComments
 
@@ -231,6 +256,10 @@ tomsguide.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 
 ! Variety
 variety.com##.comment-form-comment
+variety.com##.author-social__share
+variety.com##.trinityAudioPlaceholder
+variety.com###article-comments
+variety.com##.o-comments-link
 
 ! Viafoura
 ||livecomments.viafoura.co
