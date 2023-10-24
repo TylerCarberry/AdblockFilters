@@ -75,6 +75,9 @@ youtube.com##.ytp-ce-element
 ! Thumbnails
 youtube.com##ytd-thumbnail
 
+! Playlist thumbnails
+youtube.com##ytd-playlist-thumbnail
+
 ! Up Next on mobile
 youtube.com##[section-identifier="related-items"]
 
