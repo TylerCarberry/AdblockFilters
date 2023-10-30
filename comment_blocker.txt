@@ -173,6 +173,10 @@ medium.com##[aria-label="responses"]:nth-ancestor(3)
 ! MSNBC
 msnbc.com##.expanded-byline__social
 
+! Newatlas
+newatlas.com##.ArticlePage-actions
+newatlas.com##.SocialBar
+
 ! Newsweek
 newsweek.com##.social-share
 newsweek.com##.v_embed.v_text
