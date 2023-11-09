@@ -153,6 +153,12 @@ houstonchronicle.com##.articleHeader--shareTools
 houstonchronicle.com##.article--comments
 houstonchronicle.com##.articleFooter--social
 
+! IEEE
+ieee.org##.surveyCTA__wrapper
+ieee.org##.osano-cm-window__dialog
+ieee.org##.share-panel
+ieee.org##.article__comments
+
 ! Independent
 independent.co.uk##.show-comments
 
