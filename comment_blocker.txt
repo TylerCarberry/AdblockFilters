@@ -8,6 +8,7 @@
 9to5google.com##.post-body.comments-area
 9to5google.com##.top-comment
 9to5google.com##.article__youtube-video
+9to5google.com##.home-poll
 
 ! 9to5Mac
 9to5mac.com##.comments
@@ -15,6 +16,7 @@
 9to5mac.com##.post-body.comments-area
 9to5mac.com##.top-comment
 9to5mac.com##.article__youtube-video
+9to5mac.com##.home-poll
 
 ! ABC News
 abcnews.go.com##.CommentButton
