@@ -266,6 +266,10 @@ tomsguide.com##.xenforo-nav-link
 tomsguide.com##.socialite-widget
 tomsguide.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 
+! Universal Hub
+universalhub.com##.comment-wrapper
+universalhub.com##.rrssb
+
 ! Variety
 variety.com##.comment-form-comment
 variety.com##.author-social__share
