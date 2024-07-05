@@ -2,6 +2,9 @@
 ! Expires: 2 days
 ! Description: Removes comment sections across the internet. Does not affect social media.
 
+! 404 Media
+404media.co##.comments__container
+
 ! 9to5Google
 9to5google.com##.comments
 9to5google.com###disqus_thread
@@ -27,6 +30,8 @@ abcnews.go.com##.Amp__Share
 
 ! Android Police
 androidpolice.com##.w-newsletter-popup
+androidpolice.com##.disqus-load-btn
+androidpolice.com##.footer-threads
 
 ! Apple Insider
 appleinsider.com##.article-comments
