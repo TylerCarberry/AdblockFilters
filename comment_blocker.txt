@@ -152,6 +152,10 @@ gov.uk##.leave-a-comment
 grubstreet.com##.coral-talk
 grubstreet.com###comments
 
+! GSMarena
+gsmarena.com###user-comments
+gsmarena.com##.article-info-meta
+
 ! Hollywood Reporter
 hollywoodreporter.com##.amp-social-share-bar-container
 
