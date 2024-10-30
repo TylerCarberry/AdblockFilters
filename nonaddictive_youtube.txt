@@ -11,6 +11,9 @@ youtube.com##.ytd-comments.style-scope
 ! Comments on mobile
 youtube.com##ytm-comments-entry-point-header-renderer
 
+! Live chat replay
+youtube.com###teaser-carousel
+
 ! Suggestions on endscreen
 youtube.com##.ytp-endscreen-content
 
