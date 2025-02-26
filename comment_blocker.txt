@@ -268,6 +268,8 @@ theverge.com##[href="#comments"]
 theverge.com###coral_thread
 theverge.com##.coral-count:nth-ancestor(2)
 
+theverge.com##.duet--content-cards--content-card:has-text(/(elon|musk|doge)/i)
+
 ! Toms Guide
 tomsguide.com##.xenforo-comment-widget
 tomsguide.com##.xenforo-comments-see-all
