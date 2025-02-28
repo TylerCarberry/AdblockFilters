@@ -77,6 +77,8 @@ youtube.com##.ytp-ce-element
 
 ! Thumbnails
 youtube.com##ytd-thumbnail
+youtube.com##yt-thumbnail-view-model
+youtube.com##.shortsLockupViewModelHostThumbnailContainer
 
 ! Playlist thumbnails
 youtube.com##ytd-playlist-thumbnail
@@ -96,3 +98,6 @@ youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer:has(#video-t
 
 ! 1080 Premium
 youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
+
+! Members only videos
+youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
