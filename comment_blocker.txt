@@ -269,6 +269,7 @@ theverge.com###coral_thread
 theverge.com##.coral-count:nth-ancestor(2)
 
 theverge.com##.duet--content-cards--content-card:has-text(/\b(elon|musk|doge)\b/i)
+theverge.com##.duet--content-cards--content-card:has(a[href*="/policy/"])
 
 ! Toms Guide
 tomsguide.com##.xenforo-comment-widget
