@@ -101,3 +101,6 @@ youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 
 ! Members only videos
 youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
+
+! Newness dot
+youtube.com###newness-dot
