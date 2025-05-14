@@ -104,3 +104,6 @@ youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type
 
 ! Newness dot
 youtube.com###newness-dot
+
+! Surveys
+youtube.com##ytd-single-option-survey-renderer
