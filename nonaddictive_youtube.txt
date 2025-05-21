@@ -10,6 +10,8 @@ youtube.com##.ytd-comments.style-scope
 
 ! Comments on mobile
 youtube.com##ytm-comments-entry-point-header-renderer
+youtube.com##.ytShortsSuggestedActionViewModelDynamicHost
+youtube.com##.ytVideoMetadataCarouselViewModelHost
 
 ! Live chat replay
 youtube.com###teaser-carousel
@@ -59,6 +61,7 @@ youtube.com###voice-search-button
 
 ! Sponsor/Join channel button
 youtube.com###sponsor-button
+youtube.com##.ytReelChannelBarViewModelReelSponsorButton
 
 ! Clip button
 ! youtube.com##[aria-label="Clip"]:nth-ancestor(2)
@@ -88,6 +91,7 @@ youtube.com##[section-identifier="related-items"]
 
 ! Shorts Shelf Mobile
 youtube.com##ytm-reel-shelf-renderer
+youtube.com##.ytGridShelfViewModelHost
 
 ! Shorts Shelf Desktop
 youtube.com##[is-shorts=""]
