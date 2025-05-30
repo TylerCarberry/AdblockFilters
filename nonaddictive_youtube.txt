@@ -46,6 +46,7 @@ youtube.com##[href^="/premium"]
 
 ! Playables tab
 youtube.com##[href^="/playables"]
+youtube.com##ytd-rich-item-renderer[is-mini-game-card-shelf]:upward(5)
 
 ! Fashion and beauty tab
 youtube.com##[href^="/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ"]
