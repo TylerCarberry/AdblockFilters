@@ -32,6 +32,11 @@ abcnews.go.com##.Amp__Share
 androidpolice.com##.w-newsletter-popup
 androidpolice.com##.disqus-load-btn
 androidpolice.com##.footer-threads
+androidpolice.com##.w-like-btn
+androidpolice.com##.w-follow-btn
+androidpolice.com##.w-header-user-box
+androidpolice.com##.extra-comments
+androidpolice.com##.social-media
 
 ! Apple Insider
 appleinsider.com##.article-comments
