@@ -179,6 +179,9 @@ krebsonsecurity.com##.adt-comment
 
 ! MacRumors
 macrumors.com###comments
+macrumors.com##[class^="footer--"]
+! Shrink the large hero images
+macrumors.com##[class^="content--"] img { width: 50% !important; height: auto !important; }
 
 ! Marketwatch
 marketwatch.com##.media-object-article-reader
