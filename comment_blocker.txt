@@ -280,6 +280,7 @@ theverge.com##.coral-count:nth-ancestor(2)
 theverge.com##.duet--content-cards--content-card:has-text(/\b(elon|musk|doge)\b/i)
 theverge.com##.duet--content-cards--content-card:has(a[href*="/policy/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/politics/"])
+theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
 
 ! Paywall
 theverge.com##.duet--content-cards--content-card:has(a[href*="/command-line-newsletter/"])
