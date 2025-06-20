@@ -282,8 +282,9 @@ theverge.com##.duet--content-cards--content-card:has(a[href*="/policy/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/politics/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
 
-! Paywall
+! Behind paywall
 theverge.com##.duet--content-cards--content-card:has(a[href*="/command-line-newsletter/"])
+theverge.com##.duet--content-cards--content-card:has(a[href*="/notepad/"])
 
 ! Toms Guide
 tomsguide.com##.xenforo-comment-widget
