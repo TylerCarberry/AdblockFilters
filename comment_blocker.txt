@@ -277,7 +277,7 @@ theverge.com###coral_thread
 theverge.com##.coral-count:nth-ancestor(2)
 
 ! Turn The Verge back into a tech site
-theverge.com##.duet--content-cards--content-card:has-text(/\b(elon|musk|doge)\b/i)
+theverge.com##.duet--content-cards--content-card:has-text(/\b(elon|musk|doge|rfk jr)\b/i)
 theverge.com##.duet--content-cards--content-card:has(a[href*="/policy/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/politics/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
