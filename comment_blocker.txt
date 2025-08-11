@@ -286,6 +286,7 @@ theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/command-line-newsletter/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/notepad/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/notepad-microsoft-newsletter/"])
+theverge.com##.duet--content-cards--content-card:has(a[href*="/the-stepback-newsletter/"])
 
 ! Toms Guide
 tomsguide.com##.xenforo-comment-widget
