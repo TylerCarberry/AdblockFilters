@@ -93,6 +93,9 @@ deadline.com##.widget-newsletter
 ###disqus_container
 ###disqus_thread
 
+! Dropout
+dropout.tv##p:has-text(Content Warning:)
+
 ! Ecommerce Bytes
 ecommercebytes.com##table.CommentEntry_Table
 
