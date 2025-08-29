@@ -287,10 +287,7 @@ theverge.com##.duet--content-cards--content-card:has(a[href*="/politics/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
 
 ! Behind paywall
-theverge.com##.duet--content-cards--content-card:has(a[href*="/command-line-newsletter/"])
-theverge.com##.duet--content-cards--content-card:has(a[href*="/notepad/"])
-theverge.com##.duet--content-cards--content-card:has(a[href*="/notepad-microsoft-newsletter/"])
-theverge.com##.duet--content-cards--content-card:has(a[href*="/the-stepback-newsletter/"])
+theverge.com##.duet--content-cards--content-card:has(a[href*="/-newsletter/"])
 
 ! Toms Guide
 tomsguide.com##.xenforo-comment-widget
