@@ -282,6 +282,8 @@ theverge.com##.coral-count:nth-ancestor(2)
 ! Turn The Verge back into a tech site
 ! Prefer false positives over missing something
 theverge.com##.duet--content-cards--content-card:has-text(/\b(elon|musk|doge|rfk jr|white house|trump)\b/i)
+theverge.com##.duet--content-cards--content-card:has(a:has-text(/\b(elon|musk|doge|rfk|white-house|trump)\b/i))
+
 theverge.com##.duet--content-cards--content-card:has(a[href*="/policy/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/politics/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
