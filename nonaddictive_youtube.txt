@@ -115,3 +115,9 @@ youtube.com###newness-dot
 
 ! Surveys
 youtube.com##ytd-single-option-survey-renderer
+
+! Community posts on homepage. Desktop and mobile
+youtube.com##ytm-rich-section-renderer:has(.ytmBackstagePostRendererHost)
+youtube.com##ytm-rich-section-renderer:has(.ytmBackstagePostThreadRendererHost)
+youtube.com###contents ytd-backstage-post-renderer
+youtube.com##ytd-rich-grid-renderer ytd-backstage-post-renderer
