@@ -288,6 +288,7 @@ theverge.com##.duet--content-cards--content-card:has(a:has-text(/\b(elon|musk|do
 theverge.com##.duet--content-cards--content-card:has(a[href*="/policy/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/politics/"])
 theverge.com##.duet--content-cards--content-card:has(a[href*="/cryptocurrency"])
+theverge.com##.duet--content-cards--content-card:has(a[href*="/transportation"])
 
 ! Behind paywall
 theverge.com##.duet--content-cards--content-card:has(a[href*="/-newsletter/"])
